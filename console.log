@@ -1,0 +1,511 @@
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+"tf_use_match_hud" = "0" ( def. "1" )
+ client archive
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+"tf_use_match_hud" = "1"
+ client archive
+"cl_hud_minmode" = "1" ( def. "0" )
+ client archive
+ - Set to 1 to turn on the advanced minimalist HUD mode.
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+Unknown command "sixense_clear_bindings"
+Unknown command "sixense_write_bindings"
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+"cl_hud_minmode" = "0"
+ client archive
+ - Set to 1 to turn on the advanced minimalist HUD mode.
+maxplayers set to 2
+Unknown command "setmaster"
+maxplayers set to 2
+MDLCache: Failed load of .VVD data for bots/boss_bot/anim_tank.mdl
+Error loading cfg/vscript_convar_allowlist.txt
+VSCRIPT: Started VScript virtual machine using script language 'Squirrel'
+Script not found (scripts/vscripts/mapspawn.nut) 
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+Executing server arena config file
+'listenserver.cfg' not present; not executing.
+'arena_sawmill.cfg' not present; not executing.
+'config_arena.cfg' not present; not executing.
+FakeIP allocation succeeded: 169.254.81.181:16608, 16609
+CTFGCServerSystem - removing listener to old Steam ID [A:1:3202429975:46191]
+
+Team Fortress
+Map: arena_sawmill
+Players: 1 / 2
+Build: 2000
+Server Number: 2
+
+Client reached server_spawn.
+Recognizing MM server id [A:1:3205150743:46191]
+The server is using sv_pure -1 (no file checking).
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Voice_Init: Using Steam voice optimal sample rate 24000
+dunseng csatlakozott
+Compact freed 344064 bytes
+Redownloading all lightmaps
+ ( def. "0" )"cl_mainmenu_safemode" = "1"
+ - Enable safe mode
+ client
+Dropped dunseng from server (Server shutting down)
+maxplayers set to 2
+Unknown command "setmaster"
+maxplayers set to 2
+[SteamNetworkingSockets] Waited 5.0ms for SteamNetworkingSockets lock [ServiceThread]
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+Error loading cfg/vscript_convar_allowlist.txt
+VSCRIPT: Started VScript virtual machine using script language 'Squirrel'
+Script not found (scripts/vscripts/mapspawn.nut) 
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+'listenserver.cfg' not present; not executing.
+'ctf_2fort.cfg' not present; not executing.
+FakeIP allocation succeeded: 169.254.93.228:23216, 23217
+CTFGCServerSystem - removing listener to old Steam ID [A:1:3205150743:46191]
+
+Team Fortress
+Map: ctf_2fort
+Players: 1 / 2
+Build: 2000
+Server Number: 3
+
+Client reached server_spawn.
+Recognizing MM server id [A:1:3205552151:46191]
+The server is using sv_pure -1 (no file checking).
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\items\itembk2.wav came from. Not playing.
+Cannot figure out which search path sound\ambience\goal_1.wav came from. Not playing.
+Cannot figure out which search path sound\vo\attack_defend_intel_enemystolen.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_enemystolen.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_enemydropped.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_enemydropped.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_enemycaptured.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_enemycaptured.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_enemyreturned.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_enemyreturned.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_teamstolen.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_teamstolen.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_teamdropped.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_teamdropped.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_teamcaptured.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_teamcaptured.mp3 ]
+Cannot figure out which search path sound\vo\attack_defend_intel_teamreturned.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\attack_defend_intel_teamreturned.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_enemystolen.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_enemystolen.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_enemydropped.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_enemydropped.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_enemycaptured.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_enemycaptured.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_teamstolen.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_teamstolen.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_teamdropped.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_teamdropped.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_teamcaptured.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_teamcaptured.mp3 ]
+Cannot figure out which search path sound\vo\invade_intel_teamreturned.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\invade_intel_teamreturned.mp3 ]
+Voice_Init: Using Steam voice optimal sample rate 24000
+dunseng csatlakozott
+Compact freed 151552 bytes
+Redownloading all lightmaps
+'scout.cfg' not present; not executing.
+Can't change cl_flipviewmodels when playing, disconnect from the server or switch team to spectators
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't change snd_mute_losefocus when playing, disconnect from the server or switch team to spectators
+Can't set mat_dxlevel in multiplayer
+Changing resolutions from (1920, 1080) -> (1920, 1080)
+Unable to remove c:\program files\steam\steamapps\sourcemods\mod_tf\textwindow_temp.html!
+'scout.cfg' not present; not executing.
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't change snd_mute_losefocus when playing, disconnect from the server or switch team to spectators
+Can't set mat_dxlevel in multiplayer
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+"cl_mainmenu_safemode" = "1" ( def. "0" )
+ client
+ - Enable safe mode
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+ ( def. "0" )"cl_mainmenu_safemode" = "1"
+ client
+ - Enable safe mode
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: sixense_clear_bindings
+Unknown command: sixense_write_bindings
+Unknown command: hudcrosshair_reset
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file resource/UI/HudPlayerHealth.res
+resource/UI/HudPlayerHealth.res, 1, (*HudPlayerHealth*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudPlayerHealth.res
+(*PlayerStatusSlowed*), (*FgColor*), (*HudPlayerHealth*), 
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$C0_X" for material "dev/lumcompare"
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file resource/UI/HudPlayerHealth.res
+resource/UI/HudPlayerHealth.res, 1, (*HudPlayerHealth*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudPlayerHealth.res
+(*PlayerStatusSlowed*), (*FgColor*), (*HudPlayerHealth*), 
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file resource/UI/HudPlayerHealth.res
+resource/UI/HudPlayerHealth.res, 1, (*PlayerStatusHealthImage*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudPlayerHealth.res
+(*PlayerStatusSlowed*), (*FgColor*), (*PlayerStatusHealthImage*), 
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogend" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+--- Missing Vgui material vgui/../hud/
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+dunseng suicided.
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogcolor" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogenable" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+Can't change cl_flipviewmodels when playing, disconnect from the server or switch team to spectators
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Can't change snd_mute_losefocus when playing, disconnect from the server or switch team to spectators
+Changing resolutions from (1920, 1080) -> (2560, 1440)
+Unable to remove c:\program files\steam\steamapps\sourcemods\mod_tf\textwindow_temp.html!
+2584.001351 BlockingGetDataPointer:  Async I/O Force player\geiger2.wav (    2.20 msec /     2.69 msec total )
+'scout.cfg' not present; not executing.
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+Dropped dunseng from server (Server shutting down)
+maxplayers set to 2
+Unknown command "setmaster"
+maxplayers set to 2
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+Error loading cfg/vscript_convar_allowlist.txt
+VSCRIPT: Started VScript virtual machine using script language 'Squirrel'
+Script not found (scripts/vscripts/mapspawn.nut) 
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+'listenserver.cfg' not present; not executing.
+'ctf_2fort.cfg' not present; not executing.
+FakeIP allocation succeeded: 169.254.36.70:46696, 46697
+CTFGCServerSystem - removing listener to old Steam ID [A:1:3205552151:46191]
+
+Team Fortress
+Map: ctf_2fort
+Players: 1 / 2
+Build: 2000
+Server Number: 4
+
+Client reached server_spawn.
+Recognizing MM server id [A:1:4080614423:46191]
+The server is using sv_pure -1 (no file checking).
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\items\itembk2.wav came from. Not playing.
+Cannot figure out which search path sound\ambience\goal_1.wav came from. Not playing.
+Voice_Init: Using Steam voice optimal sample rate 24000
+dunseng csatlakozott
+Compact freed 409600 bytes
+Redownloading all lightmaps
+'scout.cfg' not present; not executing.
+No such variable "$fogend" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+No such variable "$fogstart" for material "maps/ctf_2fort/water/water_2fort_-528_-1520_-128"
+--- Missing Vgui material vgui/..sourcemods\mod_tf\resource\hud\health_bg.vtf
+--- Missing Vgui material vgui/..\hud\custom_health_bg
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file resource/UI/HudPlayerHealth.res
+resource/UI/HudPlayerHealth.res, 1, (*PlayerStatusHealthImageBG*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudPlayerHealth.res
+(*PlayerStatusSlowed*), (*FgColor*), (*PlayerStatusHealthImageBG*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file resource/UI/HudPlayerHealth.res
+resource/UI/HudPlayerHealth.res, 1, (*PlayerStatusHealthImageBG*), 
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudPlayerHealth.res
+(*PlayerStatusSlowed*), (*FgColor*), (*PlayerStatusHealthImageBG*), 
+Failed to load resource/UI/HudObjectiveFlagPanel.res
+KeyValues Error: LoadFromBuffer: missing { in file resource/UI/HudObjectiveFlagPanel.res
+(*resource/UI/HudObjectiveFlagPanel.res*), (*PoisonTimeLabel*), (*FgColor*), (*if_specialdelivery*), 
+Can't use cheat command noclip in multiplayer, unless the server has sv_cheats set to 1.
+noclip ON
+noclip OFF
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled, ignoring achievement progress for TF_SCOUT_DOUBLE_JUMPS
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled, ignoring achievement progress for TF_SCOUT_DOUBLE_JUMPS
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled, ignoring achievement progress for TF_SCOUT_FLAG_CAP_GRIND
+noclip ON
+noclip OFF
+*Újraéledéskor Gépágyús leszel
+dunseng suicided.
+Achievements disabled: cheats turned on in this app session.
+Achievements disabled, ignoring achievement progress for TF_SCOUT_LONG_DISTANCE_RUNNER
+Achievements disabled: cheats turned on in this app session.
+'heavyweapons.cfg' not present; not executing.
+Achievements disabled: cheats turned on in this app session.
+'scout.cfg' not present; not executing.
+Achievements disabled: cheats turned on in this app session.
+'soldier.cfg' not present; not executing.
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+Achievements disabled: cheats turned on in this app session.
+'scout.cfg' not present; not executing.
+Achievements disabled: cheats turned on in this app session.
+'soldier.cfg' not present; not executing.
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+Achievements disabled: cheats turned on in this app session.
+'scout.cfg' not present; not executing.
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$C0_Y" for material "dev/lumcompare"
+No such variable "$C0_X" for material "dev/lumcompare"
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+Unknown command: vguiinventory
+Unknown command: vguiinventory
+Unknown command: vguiinventory
+Unknown command: engine
+Unknown command: engine
+Unknown command: engine
+Unknown command: engine
+Unknown command: engine
+No such variable "$bloomamount" for material "dev/blurfiltery_nohdr"
+Unknown command: OpenOptionsDialog
+Unknown command: -
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+Unknown command: -
+No such variable "$C0_X" for material "dev/halo_add_to_screen"
+Dropped dunseng from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CTFGCClientSystem::ShutdownGC
+CTFGCClientSystem - adding listener
+Unable to remove c:\program files\steam\steamapps\sourcemods\mod_tf\textwindow_temp.html!
